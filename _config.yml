@@ -1,0 +1,74 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://scott-arakawa.com" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Scott Arakawa
+  description: "A personal portfolio and blog website" # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <h1>Designer and Developer</h1>
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+
+  # Icons
+  rss: false
+  email_address: scottarakawa@gmail.com
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: iBrunch
+  google_plus:
+  instagram: "sctkawa"
+  linkedin:  https://www.linkedin.com/in/scott-arakawa-224a9445?trk=hp-identity-name
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "scottarakawa"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: "UA-89117997-1"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Read more &raquo;"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+
+# PAGINATION
+paginate: 100
+paginate_path: "blog/page:num"
+
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+# BUILD SETTINGS
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems: [jekyll-paginate]
