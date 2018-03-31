@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Arakawa</title>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/</link>
+    <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://0.0.0.0:8080/</link>
     <description>A personal portfolio and blog website</description>
-    <pubDate>Wed, 18 Jan 2017 01:25:25 -0600</pubDate>
+    <pubDate>Sat, 31 Mar 2018 20:58:51 +0000</pubDate>
     
       <item>
         <title>When Programming Finally Clicks</title>
-        <link>http://localhost:4000/2017/01/09/when-programming-finally-clicks.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/09/when-programming-finally-clicks.html</guid>
+        <link>http://0.0.0.0:8080/2017/01/09/when-programming-finally-clicks.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2017/01/09/when-programming-finally-clicks.html</guid>
         <description>&lt;p&gt;The moment I pressed start and the colored lights flashed to the beeps, I was filled with joy. In the months that passed since I had  began learning how to code, this little game was the first project I approached with a sound plan that I could execute from start to finish. That was a very big deal to me. Before, I would spin my wheels and not know where to begin. I would scratch out plans A-Z and search for any sort of outside help to figure out what I could do to solve my problems. Learning how to code involves more than learning the language. First, you have to learn a different way to think.&lt;/p&gt;
 
 &lt;p&gt;Many early lessons involve real world scenarios to help students visualize the task. One problem I did involved counting change from a register. There are two ways to think about this problem. The first way, is the natural way. This is the human way to solve the problem. The cashier counts the total cost of the items, then subtracts the total from the cash paid by the customer. Then the cashier looks in the drawer for the appropriate change. It doesn’t have to be the best change, it just has to work. The second way is how a machine would have to solve it. The machine can do things perfectly, but it can’t improvise and it’s best if what it has to do repeats. So to solve it, after the total is subtracted from the cash, I created a set of if/else decisions for the computer to decide which bills and which coins should be distributed. If the change was higher than the bill value, subtract the bill value from the change. If there was still change, repeat the process. If the change was higher than the bill value, move on to the next lowest drawer, etc. On the surface, this is an easy problem, but to a beginner, breaking down something that comes natural is a strange experience.&lt;/p&gt;
 
 &lt;p&gt;As the problems become more abstract, this way of thinking can be frustrating, if you don’t know how to break problems down for machines. Fortunately, after putting in some long hours and hair pulling sessions, I got used to thinking in a different way. When I finally came upon the project to create a memory game like Simon, I looked at what the game needed to function and I wrote down everything I needed to build like a random pattern generator, a reset button, a buzzer for incorrect input, and a way to freeze user input, so they can’t interrupt essential game processes. It didn’t work perfectly straight from the blueprint, but much of my time was spent refining and solving how it worked rather than being frustrated with the basic logic and structure of the game. I felt good when I was planning, but I truly realized I hit the point when everything clicked when I hit that button and saw the game buzz to life. It’s a feeling I hope every new development student can feel, because there were many times when I thought I was getting myself into something that would forever be beyond my understanding. Something told me to keep going despite the struggle. It wasn’t natural talent that got me to that point. It was persistent practice. That’s when I realized that even the most difficult problems could be understood eventually with grit and determination.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Jan 2017 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
       </item>
     
       <item>
         <title>My Biggest Challenge When Learning to Develop</title>
-        <link>http://localhost:4000/2016/12/14/my-biggest-challenge-when-learning-to-develop.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/14/my-biggest-challenge-when-learning-to-develop.html</guid>
+        <link>http://0.0.0.0:8080/2016/12/14/my-biggest-challenge-when-learning-to-develop.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2016/12/14/my-biggest-challenge-when-learning-to-develop.html</guid>
         <description>&lt;p&gt;I’ve been learning to develop for about four months and my biggest challenge is a very simple one: estimating the time I’ll take to complete a project. I can study and take notes just fine. Watching video lectures is easy. But actually figuring out how long something will take is not something I’m currently good at. I suspect this is a problem many developers face, judging by the amount of webcomics and comments about clients from hell I’ve seen crop up here and there. This was something easier to manage in my former career, but it was still occasionally an issue. Fortunately, this is something I can improve.&lt;/p&gt;
 
 &lt;p&gt;The tasks that have tripped me up fall into a few categories. There’s the ones that sound easy, but actually aren’t. There are the tasks that look difficult and are. And then there’s the beginner’s mistakes like not knowing how to properly debug or break down a problem that cause unnecessary delays. That last one can be especially infuriating. The last one is also the easiest one to fix, because I’ll largely be passively eliminating that one the more experience I have.&lt;/p&gt;
@@ -32,13 +32,13 @@
 
 &lt;p&gt;Reviewing each step I need to solve would go a long way to help determine the shape of the problem. From here, I could break down each problem and figure out what’s needed and get an even clearer picture of what has to be done. Still, there will be issues with time, so frontloading a lot of the work would be better. Though this is a big problem to have at the moment, I’m glad it’s something that’s manageable.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 14 Dec 2016 00:00:00 -0600</pubDate>
+        <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       </item>
     
       <item>
         <title>My Experience with Bloc</title>
-        <link>http://localhost:4000/2016/10/27/my-experience-with-bloc.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/10/27/my-experience-with-bloc.html</guid>
+        <link>http://0.0.0.0:8080/2016/10/27/my-experience-with-bloc.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/2016/10/27/my-experience-with-bloc.html</guid>
         <description>&lt;p&gt;I was sure I wanted to become a web developer, but I wasn’t sure about Bloc. So I took the biggest step towards commitment just shy of paying for the service and signed up for their email list. I was glad to get that career move off of my to do list. I spent the next few months looking up online guides and courses, making some decent progress here and there. But I wasn’t moving as fast as I thought I should be. Sometimes the curriculum would change suddenly or there were huge gaps in what I was supposed to know in order to succeed. Most importantly, there was no guidance. That’s what did it for me.&lt;/p&gt;
 
 &lt;p&gt;During all those months I was chugging away “at my own pace,” I was getting reminders that Bloc provided the guidance I wanted. Eventually, I signed up. And I’m glad I did. Bloc has been a good experience overall. The most important thing that I’ve learned has been where I need to improve. I had no idea what a job interview was going to be like. It turns out that I’m not good at solving problems out loud or recalling definitions and debugging code with a pen and paper. I probably would have discovered this eventually. But I’m glad it wasn’t during my first job interview or casually searching “nailing the interview” on my phone. It’s integrated into the curriculum and during the live one-on-one sessions with your mentor.&lt;/p&gt;
@@ -51,7 +51,7 @@
 
 &lt;p&gt;I haven’t finished Bloc yet, but I’m excited to finish it and get on with the next step in my career. If things keep going well, I’ll soon be writing about Bloc as a success story.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Oct 2016 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       </item>
     
   </channel>
