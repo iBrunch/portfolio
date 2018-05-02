@@ -1,1 +1,2 @@
-scott-arakawa.com
+www.scottarakawa.com
+scottarakawa.com
