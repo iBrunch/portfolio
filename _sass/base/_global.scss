@@ -5,6 +5,7 @@
 }
 html {
   background: $background-color;
+  background-image: url("/img/me-bg-png")
 }
 
 // Typography
@@ -116,4 +117,13 @@ img[align=left] {
 }
 img[align=right] {
   margin-left: 3%;
+}
+
+.img-container {
+  min-height: 500px;
+  background-image: url(/img/me-bg.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  /*padding: 40px; (If don't want to set min-height or some image content is there) */
 }

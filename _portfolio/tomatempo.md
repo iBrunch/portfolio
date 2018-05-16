@@ -3,11 +3,13 @@ layout: post
 title: TomaTempo
 thumbnail-path: "img/tomatempo.png"
 short-description: TomaTempo is a TomaTempo is a simple time management app.
-
+grid: "tomatempo"
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/tomatempo.png)
+
+[Live Demo](https://tomatempo-ibrunch.herokuapp.com/)
 
 ## Explanation
 
