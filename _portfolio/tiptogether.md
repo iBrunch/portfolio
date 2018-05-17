@@ -8,7 +8,6 @@ grid: "tiptogether"
 
 {:.center}
 ![]({{ site.baseurl }}/img/tiptogether.png)
-![]({{ site.baseurl }}/img/me-bg.png)
 [Live Demo](https://tip-together.herokuapp.com/)
 
 ## Explanation
