@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Programming Finally Clicks
+date: 2017-01-09 00:00:00 +0000
 ---
 The moment I pressed start and the colored lights flashed to the beeps, I was filled with joy. In the months that passed since I had  began learning how to code, this little game was the first project I approached with a sound plan that I could execute from start to finish. That was a very big deal to me. Before, I would spin my wheels and not know where to begin. I would scratch out plans A-Z and search for any sort of outside help to figure out what I could do to solve my problems. Learning how to code involves more than learning the language. First, you have to learn a different way to think.
 
